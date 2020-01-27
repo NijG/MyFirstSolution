@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MyFirstPJT.cpp">
+    <ClCompile Include="MyFirstPJT.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
