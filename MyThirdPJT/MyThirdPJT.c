@@ -1,22 +1,22 @@
 #include <stdio.h>
-#include <malloc.h>
+
+void Say_hello(); //prototyping , function declaration
 
 
-
-int main(void)
+int main()
 {
-	int i;
-	float f;
-	char c;
-	double d;
 
+	for (int i = 1; i < 100; i++)
+	{
+		Say_hello();
+	}
 
-	
-	alloca;
-	printf("%d",sizeof(i));
-	printf("%d", sizeof(f));
-	printf("%d", sizeof(c));
-	printf("%d", sizeof(d));
 	return 0;
-	
+}
+
+
+void Say_hello() // function definition
+{
+	printf("HI!\n");
+	return;
 }
