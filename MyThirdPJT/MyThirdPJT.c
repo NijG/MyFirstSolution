@@ -1,9 +1,22 @@
 #include <stdio.h>
+#include <malloc.h>
 
-int main()
+
+
+int main(void)
 {
-	printf_s("hhhhhhhhhhhhhh!\n");
-	printf("hello world!\n");
+	int i;
+	float f;
+	char c;
+	double d;
+
+
+	
+	alloca;
+	printf("%d",sizeof(i));
+	printf("%d", sizeof(f));
+	printf("%d", sizeof(c));
+	printf("%d", sizeof(d));
 	return 0;
 	
 }
