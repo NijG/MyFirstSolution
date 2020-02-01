@@ -5,7 +5,8 @@
 
 int main()
 {
-	std::cout <<"HI\n";
+	std::cout <<"HI\n"<< std::endl;
+	////return 0;
 	
 
 
