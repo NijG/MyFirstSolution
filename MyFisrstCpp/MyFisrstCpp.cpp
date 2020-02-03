@@ -5,8 +5,17 @@
 
 int main()
 {
-	std::cout <<"HI\n"<< std::endl;
-	////return 0;
+
+
+	int *a = NULL;
+	int b = 20;
+	a = &b;
+
+	std::cout << "¸Ó½ºÄ­="  << 240-180 << std::endl;
+	std::cout << "°¡ÀÌ¾Æ=" << 240 - 229 << std::endl;
+	std::cout << "¹ö±×=" << 240 - 250 << std::endl;
+	std::cout << "»¡°£ÄÚ=" << 240 - 175 << std::endl;
+	return 0;
 	
 
 
