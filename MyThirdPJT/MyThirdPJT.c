@@ -36,7 +36,20 @@ int main()
 		j++;
 	}
 
-	   	  
+	
+
+	int q = 1;
+	int sum = 0;
+	for (q; q <= 1000; q++)
+	{
+		if (q % 3 == 0 || q % 5 == 0)
+		{
+			sum += q;
+		}
+	}
+	printf("%d", sum);
+
+
 	return 0; 
 
 }
