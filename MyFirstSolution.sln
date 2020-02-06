@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyWindownPJT", "MyWindownPJ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{E6027062-3099-4A5D-9109-4628C2CC05EF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyCPJT4", "MyCPJT4\MyCPJT4.vcxproj", "{B13D9979-6DE8-4E22-8AAC-31D7241394D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,16 @@ Global
 		{E6027062-3099-4A5D-9109-4628C2CC05EF}.Release|x64.Build.0 = Release|Any CPU
 		{E6027062-3099-4A5D-9109-4628C2CC05EF}.Release|x86.ActiveCfg = Release|Any CPU
 		{E6027062-3099-4A5D-9109-4628C2CC05EF}.Release|x86.Build.0 = Release|Any CPU
+		{B13D9979-6DE8-4E22-8AAC-31D7241394D1}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B13D9979-6DE8-4E22-8AAC-31D7241394D1}.Debug|x64.ActiveCfg = Debug|x64
+		{B13D9979-6DE8-4E22-8AAC-31D7241394D1}.Debug|x64.Build.0 = Debug|x64
+		{B13D9979-6DE8-4E22-8AAC-31D7241394D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{B13D9979-6DE8-4E22-8AAC-31D7241394D1}.Debug|x86.Build.0 = Debug|Win32
+		{B13D9979-6DE8-4E22-8AAC-31D7241394D1}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B13D9979-6DE8-4E22-8AAC-31D7241394D1}.Release|x64.ActiveCfg = Release|x64
+		{B13D9979-6DE8-4E22-8AAC-31D7241394D1}.Release|x64.Build.0 = Release|x64
+		{B13D9979-6DE8-4E22-8AAC-31D7241394D1}.Release|x86.ActiveCfg = Release|Win32
+		{B13D9979-6DE8-4E22-8AAC-31D7241394D1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
